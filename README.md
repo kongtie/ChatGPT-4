@@ -3,7 +3,8 @@ GPT-4已正式发布，调用ChatGPT4接口需要申请，请加微信群或在�
 ------
 **GPT-4已经发布，快进群参与讨论吧…… 免费加群，即将达到500人上限，欲加从速。**
 
-欢迎关注我在github上开源的基于GPT-3.5的PHP版调用OpenAI的API接口进行问答的Demo（ https://github.com/kongtie/ChatGPT-4），可以说是最容易部署的ChatGPT环境。
+欢迎关注我在github上开源的基于GPT-3.5的PHP版调用OpenAI的API接口进行问答的Demo（ https://github.com/kongtie/ChatGPT-4） 
+可以说是最容易部署的ChatGPT环境。
 
 **一旦GPT-4官方接口正式放开，我将第一时间分享相关接口调用源码。**
 
